@@ -21,10 +21,10 @@
 
 <br>
 
-- A passionate Web Development student, specializing in Back-End.
+- A passionate Web Development, specializing in Back-End.
 - Exploring and learning new web technologies.
 - Currently developing my skills in Back-End development.
-- I’m currently open for an Intern or a new job opportunity.
+- I’m currently open a new job opportunity.
 
 
 <br><br>
