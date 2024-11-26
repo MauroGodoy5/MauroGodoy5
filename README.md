@@ -24,7 +24,7 @@
 - A passionate Web Development, specializing in Back-End.
 - Exploring and learning new web technologies.
 - Currently developing my skills in Back-End development.
-- I’m currently open a new job opportunity.
+- I am currently seeking a new job opportunity.
 
 
 <br><br>
