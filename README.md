@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development+Student;+Aspiring+Back-End+Developer;+Passionate+about+Programming;+Love+to+code+the+back-end+structure;+Currently+learning+Web+Technologies;+Self-taught+Developer;+Always+excited+to+learn+new+tools..%3C3">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Development;+Aspiring+Back-End+Developer;+Passionate+about+Programming;+Love+to+code+the+back-end+structure;+Currently+learning+Web+Technologies;+Self-taught+Developer;+Always+excited+to+learn+new+tools..%3C3">
 </a>
 
 </p>
@@ -91,13 +91,6 @@
 
 <br>
 
-<li>
-<a href="https://www.instagram.com/mauro.gdo/" target="_blank">
-<img src="https://img.shields.io/badge/instagram%3A%20mauro.gdo-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
 
 <li>
 <a href="mailto:mauro.gdo5@gmail.com" target="_blank">
